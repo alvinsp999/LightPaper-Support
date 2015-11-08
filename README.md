@@ -1,9 +1,6 @@
-### Official Support for [LightPaper](https://play.google.com/store/apps/details?id=com.clockworkengine.android.LightPaper)
+### Official Support for [LightPaper](http://lightpaper.ashokgelal.com/?utm_source=github&utm_medium=readme&utm_campaign=support)
 
 
-* [About LightPaper](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/About%20LightPaper.md)
-* [LightPaper Quick Start](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/QuickStart.md)
-* [How to post to WordPress and Tumblr](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/Blogging.md)
-* [Revision History](https://github.com/ClockworkEngine/LightPaper-Support/blob/master/Revision%20History.md)
+* [About LightPaper](http://lightpaper.ashokgelal.com/?utm_source=github&utm_medium=readme&utm_campaign=support)
 
-Please email us at support@clockworkengine.com or [open a new support request](https://github.com/ClockworkEngine/LightPaper-Support/issues).
+Please email us at [hellornaapps@gmail.com](mailto:hellornaapps@gmail.com) or [open a new support request](https://github.com/AwsmApps/LightPaper-Support/issues).
